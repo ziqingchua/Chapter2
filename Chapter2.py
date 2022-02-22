@@ -13,7 +13,7 @@ print(int((a **b)+.8))
 print(round (a / b,3))
 num = 4
 
-total inches = 41
+total_inches = 41
 feet = total_inches // 12
 inches = total_inches % 12
 print(feet, inches)
